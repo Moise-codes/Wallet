@@ -1,2 +1,0 @@
-
-import {neon} from "@neondataba"
